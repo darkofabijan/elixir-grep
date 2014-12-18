@@ -1,2 +1,4 @@
-# Grep tool
+ElixirGrep
+==========
 
+** TODO: Add description **
